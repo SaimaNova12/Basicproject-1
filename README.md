@@ -1,5 +1,5 @@
 
-## Rest_API_Newman
+## Rest_API
 #### How to Run this project
   - Clone this project
   - Open with Postman/Command Shell
