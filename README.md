@@ -37,7 +37,7 @@ npm install -g newman-reporter-htmlextra
 https://documenter.getpostman.com/view/32179388/2s9YsNfAy2
    ```
 ### Test Case List
-#### Create Student 
+#### Create Booking 
 - Create Data Sets Using the Dynamic Random Variables.
 #### Verify created student details through method get
 #### validate the following field values::
